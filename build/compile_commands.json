@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/gcc  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos -g -o CMakeFiles/sipServer.dir/utils/MD5.c.o -c /home/wjc/project/sipserver/utils/MD5.c",
+  "file": "/home/wjc/project/sipserver/utils/MD5.c"
+},
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/gcc  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos -g -o CMakeFiles/sipServer.dir/utils/HTTPDigest.c.o -c /home/wjc/project/sipserver/utils/HTTPDigest.c",
+  "file": "/home/wjc/project/sipserver/utils/HTTPDigest.c"
+},
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/g++  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos  -std=c++11 -pthread   -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/sipServer.dir/utils/func.cpp.o -c /home/wjc/project/sipserver/utils/func.cpp",
+  "file": "/home/wjc/project/sipserver/utils/func.cpp"
+},
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/g++  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos  -std=c++11 -pthread   -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/sipServer.dir/utils/mylog.cpp.o -c /home/wjc/project/sipserver/utils/mylog.cpp",
+  "file": "/home/wjc/project/sipserver/utils/mylog.cpp"
+},
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/g++  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos  -std=c++11 -pthread   -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/sipServer.dir/utils/myconfig.cpp.o -c /home/wjc/project/sipserver/utils/myconfig.cpp",
+  "file": "/home/wjc/project/sipserver/utils/myconfig.cpp"
+},
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/g++  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos  -std=c++11 -pthread   -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/sipServer.dir/SipServer.cpp.o -c /home/wjc/project/sipserver/SipServer.cpp",
+  "file": "/home/wjc/project/sipserver/SipServer.cpp"
+},
+{
+  "directory": "/home/wjc/project/sipserver/build",
+  "command": "/usr/bin/g++  -I/home/wjc/project/sipserver/./utils -I/usr/local/include/orocos  -std=c++11 -pthread   -O0 -Wall -g2 -ggdb -std=gnu++11 -o CMakeFiles/sipServer.dir/main.cpp.o -c /home/wjc/project/sipserver/main.cpp",
+  "file": "/home/wjc/project/sipserver/main.cpp"
+}
+]

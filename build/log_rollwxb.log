@@ -1,0 +1,83 @@
+2024-02-26 10:44:51,185: INFO RootName: http reason:71
+2024-02-26 10:44:51,185: INFO RootName: websocket reason:71
+2024-02-26 10:44:51,185: INFO RootName: http reason:18
+2024-02-26 10:44:51,185: INFO RootName: 18 Received message: /login
+2024-02-26 10:44:51,185: INFO RootName: http reason:49
+2024-02-26 10:44:51,185: INFO RootName: 49 Received message: 
+2024-02-26 10:44:51,185: INFO RootName: http reason:12
+2024-02-26 10:44:51,185: INFO RootName: bufurl: /login
+2024-02-26 10:44:51,185: INFO RootName: http reason:13
+2024-02-26 10:44:51,185: INFO RootName: http reason:14
+2024-02-26 10:44:51,185: INFO RootName: 帐号密码验证成功
+2024-02-26 10:44:51,186: INFO RootName: 释放所有buf
+2024-02-26 10:44:51,186: INFO RootName: http reason:5
+2024-02-26 10:44:51,186: INFO RootName: http reason:30
+2024-02-26 10:44:52,452: INFO RootName: http reason:17
+2024-02-26 10:44:52,452: INFO RootName: http reason:29
+2024-02-26 10:44:52,452: INFO RootName: http reason:19
+2024-02-26 10:44:52,452: INFO RootName: http reason:71
+2024-02-26 10:44:52,452: INFO RootName: websocket reason:71
+2024-02-26 10:44:52,452: INFO RootName: http reason:18
+2024-02-26 10:44:52,452: INFO RootName: 18 Received message: /refreshĪ,�U
+2024-02-26 10:44:52,452: INFO RootName: http reason:49
+2024-02-26 10:44:52,452: INFO RootName: 49 Received message: 
+2024-02-26 10:44:52,452: INFO RootName: http reason:12
+2024-02-26 10:44:52,452: INFO RootName: bufurl: /refresh
+2024-02-26 10:44:52,452: INFO RootName: http reason:13
+2024-02-26 10:44:52,452: INFO RootName: http reason:14
+2024-02-26 10:44:52,452: INFO RootName: {"code":200,"activeList":["wjc001","wjc003"],"totalList":["wjc001","wjc003","wjc002"]}
+2024-02-26 10:44:52,453: INFO RootName: 释放所有buf
+2024-02-26 10:44:52,453: INFO RootName: http reason:5
+2024-02-26 10:44:52,453: INFO RootName: http reason:30
+2024-02-26 10:45:41,060: INFO RootName: http reason:17
+2024-02-26 10:45:41,060: INFO RootName: http reason:29
+2024-02-26 10:45:41,060: INFO RootName: http reason:19
+2024-02-26 10:45:41,060: INFO RootName: http reason:71
+2024-02-26 10:45:41,060: INFO RootName: websocket reason:71
+2024-02-26 10:45:41,060: INFO RootName: http reason:18
+2024-02-26 10:45:41,060: INFO RootName: 18 Received message: /talk
+2024-02-26 10:45:41,060: INFO RootName: http reason:49
+2024-02-26 10:45:41,060: INFO RootName: 49 Received message: 
+2024-02-26 10:45:41,060: INFO RootName: http reason:12
+2024-02-26 10:45:41,060: INFO RootName: bufurl: /talk
+2024-02-26 10:45:41,060: INFO RootName: http reason:13
+2024-02-26 10:45:41,060: INFO RootName: http reason:14
+2024-02-26 10:45:41,061: INFO RootName: 邀请对讲成功
+2024-02-26 10:45:43,061: INFO RootName: 释放所有buf
+2024-02-26 10:45:43,062: INFO RootName: http reason:5
+2024-02-26 10:45:43,062: INFO RootName: http reason:30
+2024-02-26 10:45:52,123: INFO RootName: http reason:17
+2024-02-26 10:45:52,123: INFO RootName: http reason:29
+2024-02-26 10:45:52,124: INFO RootName: http reason:19
+2024-02-26 10:45:52,124: INFO RootName: http reason:71
+2024-02-26 10:45:52,124: INFO RootName: websocket reason:71
+2024-02-26 10:45:52,124: INFO RootName: http reason:18
+2024-02-26 10:45:52,124: INFO RootName: 18 Received message: /talk
+2024-02-26 10:45:52,124: INFO RootName: http reason:49
+2024-02-26 10:45:52,124: INFO RootName: 49 Received message: 
+2024-02-26 10:45:52,124: INFO RootName: http reason:12
+2024-02-26 10:45:52,124: INFO RootName: bufurl: /talk
+2024-02-26 10:45:52,124: INFO RootName: http reason:13
+2024-02-26 10:45:52,124: INFO RootName: http reason:14
+2024-02-26 10:45:52,124: INFO RootName: 邀请对讲成功
+2024-02-26 10:45:54,126: INFO RootName: 释放所有buf
+2024-02-26 10:45:54,126: INFO RootName: http reason:5
+2024-02-26 10:45:54,126: INFO RootName: http reason:30
+2024-02-26 10:46:24,146: INFO RootName: http reason:17
+2024-02-26 10:46:24,147: INFO RootName: http reason:29
+2024-02-26 10:46:24,147: INFO RootName: http reason:19
+2024-02-26 10:46:24,147: INFO RootName: http reason:71
+2024-02-26 10:46:24,147: INFO RootName: websocket reason:71
+2024-02-26 10:46:24,147: INFO RootName: http reason:18
+2024-02-26 10:46:24,147: INFO RootName: 18 Received message: /stopTalk�,�U
+2024-02-26 10:46:24,147: INFO RootName: http reason:49
+2024-02-26 10:46:24,147: INFO RootName: 49 Received message: 
+2024-02-26 10:46:24,147: INFO RootName: http reason:12
+2024-02-26 10:46:24,147: INFO RootName: bufurl: /stopTalk
+2024-02-26 10:46:24,147: INFO RootName: http reason:13
+2024-02-26 10:46:24,147: INFO RootName: http reason:14
+2024-02-26 10:46:24,147: INFO RootName: ssrcList[0]:wjc001
+2024-02-26 10:46:24,147: INFO RootName: ssrcList[1]:wjc003
+2024-02-26 10:46:24,148: INFO RootName: 释放所有buf
+2024-02-26 10:46:24,148: INFO RootName: http reason:5
+2024-02-26 10:46:24,148: INFO RootName: http reason:30
